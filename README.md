@@ -14,8 +14,13 @@ This is the theme of eYantra Robotics Competition 2019-20 held at IIT Bombay.The
 ## Videos:-
 
 [Final demostratio video](https://youtu.be/UlDN9iitq78)
+
 [3D animation](https://youtu.be/h_NEuzW5vi0)
+
 [theme intro](https://youtu.be/WjUetfCpf9E)
+
 [progress video](https://youtu.be/jCL4euYWsCw)
+
 [buyo testing](https://youtu.be/ekcvl8QJEpc)
+
 [joystick testing](https://youtu.be/XAv6_P2s71k)
