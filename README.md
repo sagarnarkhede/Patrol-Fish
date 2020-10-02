@@ -13,15 +13,9 @@ This is the theme of eYantra Robotics Competition 2019-20 held at IIT Bombay.The
 
 ## Videos:-
 
-Final Run video:-[1.](https://youtu.be/0KMlnSG1Lgg)     [2.](https://photos.app.goo.gl/Hz1VziTUBQRBdUXy6)
-
-[Theme introduction](https://youtu.be/yweBms_mhz8)
-
-[Lifting mechanism](https://youtu.be/02q5au1B_ng )
-
-[Lift the Robot](https://youtu.be/pGbxz4_Cquw)
-
-[Run at IITB](https://youtu.be/-vIRc5aS0jE)
-
-Try and Find errors:- [1.](https://photos.app.goo.gl/u7PASaQECwufipoq5)   [2.](https://photos.app.goo.gl/p18YanLvhNbqUiPB6)   [3.](https://photos.app.goo.gl/19rFwQRX9uVSkwfo6)
-
+[Final demostratio video](https://youtu.be/UlDN9iitq78)
+[3D animation](https://youtu.be/h_NEuzW5vi0)
+[theme intro](https://youtu.be/WjUetfCpf9E)
+[progress video](https://youtu.be/jCL4euYWsCw)
+[buyo testing](https://youtu.be/ekcvl8QJEpc)
+[joystick testing](https://youtu.be/XAv6_P2s71k)
